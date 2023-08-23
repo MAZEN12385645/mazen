@@ -1,0 +1,84 @@
+
+
+.haha{
+  transition: all 0.2s ease;
+  font-size: 100px;
+  text-align: center;
+  border-radius: 10px;
+  width: 1px;
+  position: relative;
+  left: 725px;
+  bottom: 310px;
+ }
+body{
+  background-color: rgba(240,242,245,255);
+}
+.booh{
+ 
+  background-color: rgba(24,119,242,255);
+width: 350px;
+height: 50px;
+border-radius: 7px;
+transition: all 0.2s ease;
+
+position: relative;
+bottom: 380px;
+left:725px ;
+border-color: white;
+}
+.booh:active{
+  transform: scale(0.96);
+}
+img{
+  width: 200px;
+  position: relative;
+  bottom: 750px;
+  left: 100px;
+  
+}
+.pass{
+  position: relative;
+  bottom: 50px;
+}
+.back{
+  background-color: white;
+  border-radius: 7px;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  bottom:-140px;
+  left: 700px;
+  box-shadow: 0px 0px  10px rgb(146, 146, 146);
+}
+.forget{
+font-family: sans-serif;
+position: relative;
+bottom: 260px;
+left: 810px;
+font-weight: bold;
+color: rgba(24,119,242,255);
+}
+.new{
+  background-color: rgba(66,183,42,255);
+  border-color: rgba(0, 0, 0, 0);
+  height: 50px;
+  width: 250px;
+  border-radius: 7px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+position: relative;
+bottom: 390px;
+left: 565px;
+}
+.sp{
+  position: relative;
+  bottom: 495px;
+  left: 720px;
+  color: rgb(100, 99, 99);
+}
+.sasa{
+  position: relative;
+  left: 100px;
+ 
+  }
